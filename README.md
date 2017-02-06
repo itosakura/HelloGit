@@ -1,1 +1,1 @@
-"# HelloGit" 
+Hello Git
